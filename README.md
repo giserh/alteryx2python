@@ -8,7 +8,7 @@ For this example, I’ve just used a simple text input with some file paths, but
 
 
 ## Step 2: Connect to Run Command Tool. 
-<p align="center"><img src="https://github.com/jeffmaxey/alteryx2python/blob/master/alteryx2python/pictures/Capture.PNG"></p>
+<p align="center"><img src="https://github.com/jeffmaxey/alteryx2python/blob/master/alteryx2python/pictures/Capture.JPG"></p>
 
 As for the options:
 1.	Write source will take whatever data is coming IN to the tool, that is the data stream that is attached to the input of the Run Command, and write it to the file or connection specified.
