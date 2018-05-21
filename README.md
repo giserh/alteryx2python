@@ -40,6 +40,7 @@ purpose: example demonstrating integration of python and alteryx
 # // import packages
 import os
 import subprocess
+import errno 
 
 # // install packages dynamically, adjusting to corporate proxy
 def install(name):
